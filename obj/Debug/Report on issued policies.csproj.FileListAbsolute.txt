@@ -1,0 +1,10 @@
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\bin\Debug\Report on issued policies.exe.config
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\bin\Debug\Report on issued policies.exe
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\bin\Debug\Report on issued policies.pdb
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report on issued policies.csprojResolveAssemblyReference.cache
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report on issued policies.csproj.ResolveComReference.cache
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report_on_issued_policies.frmMain.resources
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report_on_issued_policies.Properties.Resources.resources
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report on issued policies.csproj.GenerateResource.Cache
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report on issued policies.exe
+C:\My Files\Visual Studio\Report on issued policies\Report on issued policies\obj\Debug\Report on issued policies.pdb
